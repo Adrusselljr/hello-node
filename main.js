@@ -1,5 +1,5 @@
 console.log("HH   HH        LLL LLL                                  LLL      DD!!!")
 console.log("HH   HH   EEE  LLL LLL  OOOO   WW      WW  OOOO  RR RR  LLL      DD!!!")
-console.log("HHHHHHH EE   E LLL LLL OO  OO  WW      WW OO  OO RRR  R LLL  DDDDDD!!!")
+console.log("HHHHHHH EE   E LLL LLL OO  OO  WW      WW OO  OO RR  R  LLL  DDDDDD!!!")
 console.log("HH   HH EEEEE  LLL LLL OO  OO   WW WW WW  OO  OO RR     LLL DD   DD!!!")
 console.log("HH   HH  EEEEE LLL LLL  OOOO     WW  WW    OOOO  RR     LLL  DDDDDD!!!")
